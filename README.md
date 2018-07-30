@@ -6,7 +6,7 @@ Se desarrollo para el manejo de las actividades administrativas para las Institu
  de Emergencia tanto para los Alumnos como para los Maestros, Registrar Porfesores, Alumnos, Matricula, Materiales e 
  Informacion de la Institucion.
 
-#Herramientas para el Desarrollo:
+#Frameworks Utilizados:
  PHP, HTML, phpMyAdmin, Bootstrap y Font Awesome.
 
 #Usuario - 123456/123456 DataBase - /bd/sistema.sql
