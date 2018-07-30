@@ -214,17 +214,8 @@
                         	<i class="icon-edit"></i>
                         </a>
                         <a href="#x<?php echo $row['doc']; ?>" title="Ingresar mas Informacion" role="button" class="btn btn-mini" data-toggle="modal">
-                        	<i class="icon-th-list"></i>
-
-                            <!--boton eliminar -->
-                        <!---->
-                            
+                        	<i class="icon-th-list"></i>                    
                         </a>
-                        <a href="#a<?php echo $row['doc']; ?>" title="Eliminar" role="button" class="btn btn-mini" 
-                        data-toggle="modal">
-                            <i class="icon-trash"></i>
-                        </a> 
-
                         <!---->
                         </center>
                         
