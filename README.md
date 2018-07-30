@@ -1,4 +1,4 @@
-GESTION ESCOLAR.
+CONTROL ESCOLAR.
 
 Se desarrollo para el manejo de las actividades administrativas para las Instituciones Escolares.
 
