@@ -3,7 +3,7 @@ GESTION ESCOLAR.
 Se desarrollo para el manejo de las actividades administrativas para las Instituciones Escolares.
 
 #Manejo de Alumnos, Maestros, Informacion de Matriculas, Notas de los Alumnos, Materias Escolar, Aulas, Informacion Personal y 
- de Emergencia tanto para los Alumnos como para los Maestros, Agregar Porfesores, Alumnos, Matricula, Materiales, Informacion de la   Institucion.
+ de Emergencia tanto para los Alumnos como para los Maestros, Registrar Porfesores, Alumnos, Matricula, Materiales, Informacion de la Institucion.
 
 #Herramientas para el Desarrollo:
  PHP, HTML, phpMyAdmin, Bootstrap y Font Awesome.
