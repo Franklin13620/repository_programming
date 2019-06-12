@@ -7,7 +7,7 @@ Se desarrollo para el manejo de las actividades administrativas para las Institu
  Informacion de la Institucion etc.
 
 #Frameworks Utilizados para el Desarrollo:                     
- PHP, HTML, phpMyAdmin, Bootstrap y Font Awesome.
+ Javacript, PHP, HTML, Bootstrap y Font Awesome.
 
 #Usuario - 123456/123456 DataBase - /bd/sistema.sql
  
